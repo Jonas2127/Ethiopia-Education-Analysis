@@ -1,4 +1,4 @@
-# Run this in a Jupyter cell to create README
+
 readme_content = """
 # 📚 Ethiopian Education Dataset Analysis
 
